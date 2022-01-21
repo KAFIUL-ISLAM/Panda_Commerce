@@ -1,0 +1,19 @@
+.gap{
+    margin: 150px auto 100px auto;
+}
+.theme-color{
+    background-color: #FEEAE9;
+}
+.btn-style{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    padding: 14px 20px;
+    border-radius: 6px;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.sub-cat{
+border-radius: 10px;
+}
+.catagories img{
+width: 100px;
+}
